@@ -33,3 +33,6 @@ Evaluation of the solution demonstrated maturity improvements in three of five Z
 <h2>📂 Downloads</h2>
 <p><a href="https://github.com/jmluong11/CapstoneProject/blob/main/ZTA%20JFS%20Plan%20Proposal.pdf">Zero Trust Architecture Plan Proposal PDF</a></p>
 <p><a href="https://github.com/jmluong11/CapstoneProject/blob/main/ZTA%20JFS%20Post%20Implementation.pdf">Zero Trust Architecture Post Implementation PDF</p>
+
+<h2>📜 License & Disclaimer</h2>
+<p>This project is an academic simulation developed for educational purposes as part of the Master of Science in Cybersecurity and Information Assurance at WGU. Jotoan Financial Services (JFS) is a fictitious organization.</p>
