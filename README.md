@@ -30,3 +30,6 @@ Evaluation of the solution demonstrated maturity improvements in three of five Z
 <p> - Advanced Zero Trust maturity from Traditional to Intermediate in 3 of 5 CISA pillars</p>
 <p> - Authored complete governance documentation including an ADFS Decommissioning Plan</p>
 
+<h2>📂 Downloads</h2>
+<p><a href="https://github.com/jmluong11/CapstoneProject/blob/main/ZTA%20JFS%20Plan%20Proposal.pdf">Zero Trust Architecture Plan Proposal PDF</a></p>
+<p><a href="https://github.com/jmluong11/CapstoneProject/blob/main/ZTA%20JFS%20Post%20Implementation.pdf">Zero Trust Architecture Post Implementation PDF</p>
